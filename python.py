@@ -1,5 +1,5 @@
 #practice file 
-def add(a,b,c):
+def add(a,b,d):
 
     return a+b
 def substrraction(a,b,c):
