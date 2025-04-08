@@ -1,3 +1,3 @@
 ### prcticing Git command
-# Hellow rearme.md
+# Hellow readme.md
 
